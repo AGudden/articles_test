@@ -1,29 +1,29 @@
 Zoekwoorden
 naam
 installatie jaar
-opleverdatum
+datum
 KoppelNetId
-RES_regio
-VestNr
-KvKnr
+RES-regio
+Vestigingsnummer
+KvK-nummer
 eigenaar
+eigenaren
 stakeholders
 gemeente
+gemeneten
 status
 aantal woningen
 Ubouw_m2
-kas_ha
-lengte_m
+kas-ha
+lengte m
 type lengte
-diameter_mm
-debiet_m3ph
-materiaal
-medium
-vermogen_MW
-vollastUren
-capaciteit_MWh_eenheid
+diameter
+debiet m3ph
+vermogen MW
+vollast uren
+capaciteit MWh
 eenheid
-ruimte_ha
+ruimte ha
 CO2 ktpa vermeden
 bookmark
 lat
@@ -31,13 +31,9 @@ lng
 wkt
 profiel
 radius
-color
-url
-capex mlnEUR
-opex kEURpa
-sector
+Minor Capital Expenditure
+opex Europe
 soort
 subSoort
-beschrijving
 CO2 ktpa
 energie GWhpa
